@@ -1,0 +1,1 @@
+exports.downloader = require('../src/downloader');
